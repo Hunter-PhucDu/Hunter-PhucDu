@@ -3,7 +3,7 @@
 - 🫶 Sở thích và đam mê: Nghe nhạc, đi phượt,...
 - 🌱 Tôi đang học tại Tay Bac University
 - 💞️ I’m looking to collaborate on GitHub, Facebook, Visual studio.
-- 📫 How to reach me (liên hệ): hunterofdar352@gmail.com
+- 📫 How to reach me (liên hệ): hunterofdark352@gmail.com
 
 <!---
 Hunter-PhucDu/Hunter-PhucDu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
